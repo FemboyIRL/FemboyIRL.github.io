@@ -16,7 +16,7 @@ body{
 .Titulo {
     background-color: ;
 }
-.mi-imagen{
+.mi-imagen{ 
   width: 500px;
   height: auto;
   border: 5px solid red; /* Color y grosor del borde */
@@ -46,10 +46,8 @@ body{
   transition: transform 0.3s ease-in-out; /* Transición suave al pasar el ratón */
 }
 
-
-
-.mi-imagen2 {
-  width: 50%;
+#largo {
+  width: 600px;
   height: auto;
   border: 5px solid red; /* Color y grosor del borde */
   border-radius: 10px; /* Radio de borde para suavizar las esquinas */
@@ -59,7 +57,7 @@ body{
   background-color: white;
 }
 
-.mi-imagen2 img{
+#largo img{
   width: 400px;
   height: auto;
   border: 5px solid #800080; /* Borde blanco */
@@ -109,7 +107,7 @@ body{
     position: static ;
     top: 0;
     left: 0;
-    width: 800px;
+    width: 100%;
     background-color: #333;
     color: white;
     text-align: center;
@@ -151,7 +149,7 @@ body{
     color: #f2f2f2;
 }        
 
-.Pie a{     
+.Pie a{                 
             margin-left: 46%;
             width: 60px                                         ;
             display: block;
