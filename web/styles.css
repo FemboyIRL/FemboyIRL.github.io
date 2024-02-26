@@ -132,7 +132,7 @@
             color: green;
         }
 .Pie {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     height: 75px;
     width: 100%;
